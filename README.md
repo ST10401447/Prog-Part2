@@ -30,5 +30,7 @@ If you found a bug while running this program or you would like to submit an imp
 
 ## Changes that i made  on this system from part 1
 I made changes to  the system by using arrayList instead of arrays.I also used delegates which are like tools for making tasks easier.Now users are able to enter number of calories  of the ingredients.I also added a unit test to check if calorie calculations are correct.These changes makes the system to work smoother and reliably.With ArrayLists and delegates,the system can handle different jobs  better.Overall this changes  makes the system easier to use and more dependable. 
+## A link for  GitHub repository
+
 
 
