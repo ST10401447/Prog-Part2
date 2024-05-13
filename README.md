@@ -29,6 +29,6 @@ If calories are greater than 300 then the you will be informed with a warning th
 If you found a bug while running this program or you would like to submit an improvement on the project please  submit the comment on rc learn so that i can solve the bug or improve on my  program on the next part of the project.
 
 ## Changes that i made  on this system from part 1
-I made changes to  the system by using arrayList instead of arrays.I also used delegates which are like tools for making tasks easier.Now users are able to enter number of calories  of the ingredients.I also added a unit test to check if calorie calculations are correct.These changes makes the system to work smoother and reliablyWith ArrayLists and delegates,the system can handle different jobs  better.Overall this changes  makes the system easier to use and more dependable. 
+I made changes to  the system by using arrayList instead of arrays.I also used delegates which are like tools for making tasks easier.Now users are able to enter number of calories  of the ingredients.I also added a unit test to check if calorie calculations are correct.These changes makes the system to work smoother and reliably.With ArrayLists and delegates,the system can handle different jobs  better.Overall this changes  makes the system easier to use and more dependable. 
 
 
